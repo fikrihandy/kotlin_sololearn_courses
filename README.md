@@ -1,3 +1,3 @@
 Learn Kotlin | Soloearn
 
-![](https://www.sololearn.com/Certificate/CT-UI8ZABXC/png)
+![](https://api2.sololearn.com/v2/certificates/CT-UI8ZABXC/image/png)
